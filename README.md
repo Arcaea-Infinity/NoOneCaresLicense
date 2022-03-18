@@ -16,7 +16,7 @@ copies of this license document, but NO ONE CARES.
 > NO ONE CARES PUBLIC LICENSE
 > TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 
-1. Whatever your opinion(s) for this "software" is/are, I'm curious
+1. Whatever your opinion(s) for this "Software" is/are, I'm curious
    1a. DM me the link. 
    1b. You will be THANKED FOR YOUR OPINION, but NO ONE CARES.
    1c. And don't @ me next time.
