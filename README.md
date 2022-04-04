@@ -6,11 +6,12 @@ For those of you who want a license for your arcare-related projects, try the NO
 ```
   NO ONE CARES PUBLIC LICENSE
 
-> Version 1.1, March 2022
+> Version 1.2, April 2022
 
 > Copyright (C) [year] [fullname]
 
-Everyone is permitted to copy and distribute verbatim or modified
+This program is NO ONE CARES software:  
+Everyone is permitted to copy and distribute verbatim and/or modify
 copies of this license document, but NO ONE CARES.
 
 > NO ONE CARES PUBLIC LICENSE
